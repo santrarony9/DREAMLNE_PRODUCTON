@@ -85,9 +85,17 @@ Your credentials, MongoDB passwords, and S3 access keys are stored in `d:\RONY D
   MONGODB_URI="mongodb+srv://santrarony9_db_user:Dreamline2026@cluster0.e880jks.mongodb.net/dreamline?retryWrites=true&w=majority&appName=Cluster0"
   NEXTAUTH_SECRET="p8I0u8u8u8u8u8u8u8u8u8u8u8u8u8u8"
   NEXTAUTH_URL="http://localhost:3000"
+  
+  # 👑 Master Admin Credentials & Google Authenticator
   ADMIN_USER="info.dreamline@gmail.com"
   ADMIN_PASS="Dreamline2026"
   ADMIN_2FA_SECRET="DREAMLINEADMINSECURETWOFAKEYSECR"
+  
+  # 🛠️ Maintenance Developer Credentials & Google Authenticator
+  MAINT_USER="maint.dreamline@gmail.com"
+  MAINT_PASS="DreamlineMaint2026!"
+  MAINT_2FA_SECRET="DREAMLINEMAINTENANCEKEY2026SECR"
+  
   AUTOMATION_WEBHOOK_URL="https://hook.eu1.make.com/kqorky35l699m65mla8dzcut3alkczg7"
   AUTOMATION_SECRET="dreamline_auto_2026"
   ```
