@@ -87,6 +87,7 @@ Your credentials, MongoDB passwords, and S3 access keys are stored in `d:\RONY D
   NEXTAUTH_URL="http://localhost:3000"
   ADMIN_USER="info.dreamline@gmail.com"
   ADMIN_PASS="Dreamline2026"
+  ADMIN_2FA_SECRET="DREAMLINEADMINSECURETWOFAKEYSECR"
   AUTOMATION_WEBHOOK_URL="https://hook.eu1.make.com/kqorky35l699m65mla8dzcut3alkczg7"
   AUTOMATION_SECRET="dreamline_auto_2026"
   ```
